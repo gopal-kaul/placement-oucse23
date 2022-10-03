@@ -1,5 +1,6 @@
 # Placement Record, CSE '23 UCEOU
 
+
 | Name             | Company   | CTC     |
 | ---------------- | --------- | ------- |
 | Gopal Kaul       | Oracle    | 18LPA   |
